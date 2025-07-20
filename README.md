@@ -94,7 +94,3 @@ To build and run the project using Docker:
 - Use the web interface to create job listings.
 - Upload candidate resumes in supported formats.
 - The AI will analyze and score resumes, helping you find the best matches.
-
-## License
-
-This project does not specify a license.
