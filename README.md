@@ -2,6 +2,22 @@
 
 An AI-powered Resume Analyzer with React, React Router, and Puter.js! Create job listings, upload candidate resumes, and use AI to automatically evaluate and match resumes to job requirements.
 
+## Live Demo
+
+The project is deployed and accessible at: [https://recruit-mind-sadiya.vercel.app/](https://recruit-mind-sadiya.vercel.app/)
+
+## Tech Stack
+
+- React 19
+- React Router 7.5.3
+- Puter.js
+- TailwindCSS
+- Zustand
+- pdfjs-dist
+- react-dropzone
+- Vite
+- TypeScript
+
 ## Features
 
 - Create and manage job listings
@@ -78,3 +94,7 @@ To build and run the project using Docker:
 - Use the web interface to create job listings.
 - Upload candidate resumes in supported formats.
 - The AI will analyze and score resumes, helping you find the best matches.
+
+## License
+
+This project does not specify a license.
